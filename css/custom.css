@@ -1,3 +1,4 @@
+/* Carousel caption start */
 .carousel-caption{
     background-color: rgba(0, 0, 0.5);
     width: 100%;
@@ -6,18 +7,21 @@
     padding-bottom: 2rem;
     padding-left: 2rem;
 }
+/* Carousel caption end */
 
+/* Container team start */
 .team .col-lg-4 {
     padding-top: 3rem;
     margin-bottom: 1.5rem;
     text-align: center;
 }
+/* Container team end */
 
 .section-divider{
     margin: 3rem 0;
 }
 
-
+/* footer section */
 .footer-section{
     padding-top: 3rem;
     padding-bottom: 3rem;
